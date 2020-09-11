@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3818" started-at="2020-07-07T19:08:21Z" finished-at="2020-07-07T19:08:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3818" started-at="2020-07-07T19:08:21Z" finished-at="2020-07-07T19:08:25Z">
+      <class name="RestAssured.TC03_Get_All_Employess">
+        <test-method status="PASS" signature="setup()[pri:0, instance:RestAssured.TC03_Get_All_Employess@4b168fa9]" name="setup" is-config="true" duration-ms="831" started-at="2020-07-07T19:08:21Z" finished-at="2020-07-07T19:08:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getAllEmployess()[pri:0, instance:RestAssured.TC03_Get_All_Employess@4b168fa9]" name="getAllEmployess" is-config="true" duration-ms="2812" started-at="2020-07-07T19:08:22Z" finished-at="2020-07-07T19:08:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllEmployess -->
+        <test-method status="PASS" signature="checkResponseBody()[pri:0, instance:RestAssured.TC03_Get_All_Employess@4b168fa9]" name="checkResponseBody" duration-ms="136" started-at="2020-07-07T19:08:25Z" finished-at="2020-07-07T19:08:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResponseBody -->
+      </class> <!-- RestAssured.TC03_Get_All_Employess -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
